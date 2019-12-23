@@ -1,5 +1,7 @@
 # License Validator
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/inthepocket/npm-license-scraper.svg)](https://greenkeeper.io/)
+
 Dead simple license validator
 
 ## Usage
